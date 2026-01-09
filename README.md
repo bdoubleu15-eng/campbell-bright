@@ -2,7 +2,7 @@
 
 I do NOT like the dark. The rest is AI slop. It's a nice display trust me. I wasn't going to do a write up just to ge my wsl the way i like it. 
 
-![Campbell Bright](https://placeholder-image-url-or-screenshot)
+![Campbell Bright](campbell-bright.png)
 
 ## Overview
 
