@@ -1,0 +1,23 @@
+{
+    "name": "Campbell Bright",
+    "black": "#0C0C0C",
+    "red": "#FF3333",
+    "green": "#00FF00",
+    "yellow": "#FFFF00",
+    "blue": "#0099FF",
+    "purple": "#FF00FF",
+    "cyan": "#00FFFF",
+    "white": "#CCCCCC",
+    "brightBlack": "#767676",
+    "brightRed": "#FF6666",
+    "brightGreen": "#66FF66",
+    "brightYellow": "#FFFF66",
+    "brightBlue": "#66CCFF",
+    "brightPurple": "#FF66FF",
+    "brightCyan": "#66FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#0C0C0C",
+    "foreground": "#FFFFFF",
+    "selectionBackground": "#FFFFFF",
+    "cursorColor": "#FFFFFF"
+}

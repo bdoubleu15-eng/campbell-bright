@@ -1,0 +1,133 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste"
+        },
+        {
+            "command": "find",
+            "id": "User.find"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878"
+        }
+    ],
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "keybindings": 
+    [
+        {
+            "id": "User.find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "User.splitPane.A6751878",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "colorScheme": "Campbell Bright",
+            "font": 
+            {
+                "face": "JetBrainsMonoNL Nerd Font",
+                "size": 14,
+                "weight": "bold"
+            },
+            "opacity": 52,
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell",
+                "opacity": 45,
+                "useAcrylic": true
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt",
+                "opacity": 65,
+                "useAcrylic": true
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "opacity": 61,
+                "source": "Windows.Terminal.Azure",
+                "useAcrylic": true
+            },
+            {
+                "font": 
+                {
+                    "weight": "semi-bold"
+                },
+                "guid": "{1efbc0a0-d871-5dc2-8fb2-b35a9a312896}",
+                "hidden": false,
+                "name": "Ubuntu-24.04",
+                "opacity": 46,
+                "source": "Microsoft.WSL",
+                "useAcrylic": true
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#0C0C0C",
+            "black": "#0C0C0C",
+            "blue": "#0099FF",
+            "brightBlack": "#767676",
+            "brightBlue": "#66CCFF",
+            "brightCyan": "#66FFFF",
+            "brightGreen": "#66FF66",
+            "brightPurple": "#FF66FF",
+            "brightRed": "#FF6666",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFFF66",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#00FFFF",
+            "foreground": "#FFFFFF",
+            "green": "#00FF00",
+            "name": "Campbell Bright",
+            "purple": "#FF00FF",
+            "red": "#FF3333",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#FFFF00"
+        }
+    ],
+    "themes": []
+}
