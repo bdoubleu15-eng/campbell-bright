@@ -16,7 +16,7 @@ I do NOT like the dark. The rest is AI slop. It's a nice display trust me. I was
 ## Installation (Windows Terminal)
 
 1. Open Windows Terminal settings ( `Ctrl` + `,` ).
-2. Open the JSON file (click the "Open JSON file" icon in the bottom left).
+2. Open the JSON file (click the "Open JSON file" icon in the bottom left). (or shift+ctl+,)
 3. Scroll to the `"schemes": []` array.
 4. Paste the object from `campbell-bright.json` inside the array.
 5. In your profile settings (e.g., "defaults" or specific profiles like "Ubuntu"), set:
