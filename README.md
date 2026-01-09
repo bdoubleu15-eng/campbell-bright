@@ -39,7 +39,7 @@ This theme was developed with the following font settings in mind:
 ## Credits
 
 - Based on the original [Campbell scheme](https://github.com/microsoft/terminal) by Microsoft.
-- Customized by [Your Name].
+- Customized by BWRIGHT.
 
 ## License
 
